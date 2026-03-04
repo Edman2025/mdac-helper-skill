@@ -1,5 +1,9 @@
 .openclaw/
 memory/
 travel/
+# Workspace-local files (not part of mdac-helper-skill repo)
+BOOTSTRAP.md
+PLAN.md
+
 # Local/private data lives outside repo in ~/.openclaw/workspace/private/
 .DS_Store
