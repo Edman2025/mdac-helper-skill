@@ -1,0 +1,5 @@
+.openclaw/
+memory/
+travel/
+# Local/private data lives outside repo in ~/.openclaw/workspace/private/
+.DS_Store
